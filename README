@@ -1,4 +1,4 @@
 README
 
-For my final project for ECE387 I created a robotic car, which will be powered by 2 DC Motors as well as the L298N driver board. The robotic car is controlled by a joystick, and is powered by a 9.6 volt battery pack. On top of the robotic car is a rotating phone mount, which is powered by the 28BYJ48 stepper motor, and controlled by a joy stick. This car can function as a home-made camera dolly.
+For my final project for ECE387 I created a robotic car, which will be powered by 2 DC Motors as well as the L298N driver board. The robotic car is controlled by a joystick, and is powered by a 9.6 volt battery pack. On top of the robotic car is a rotating phone mount, which is powered by the 28BYJ48 stepper motor, and controlled by a joy stick. This car functions as a home-made camera dolly.
 
