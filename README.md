@@ -72,13 +72,7 @@ One aspect of the project I would improve on next time is the build quality. Sin
 
 Overall, I think the Arduino camera dolly turned out very well. Building and programming the camera dolly was very challenging, but the final product exceeded my expectations. I was able to build a robotic car with an independent drivetrain, which is controlled by a dual axis input from a joystick. I was also successful at mounting the panoramic camera attachment and controlling that with a single axis input from a joystick. The car functioned as I had planned which I believe is a success. Building the camera dolly helped me become much more familiar with Arduino components as well as the Arduino IDE, and I also learned how to use the spiral design model. Overall, I believe the final project for ECE387 was a great learning experience.
 
-
-
-
-
-
 ***
-
 
 ## Works Used
 
@@ -91,8 +85,3 @@ Overall, I think the Arduino camera dolly turned out very well. Building and pro
 [http://www.goodliffe.org.uk/arduino/joystick.php](http://www.goodliffe.org.uk/arduino/joystick.php)
 
 ***
-
-
-
-
-
